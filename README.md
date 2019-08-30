@@ -1,9 +1,9 @@
-Sentance Reverser.
+Sentence Reverser.
 =================
 
 ### Description
 
-A basic and cool sentance reverser, based on Vanilla JavaScript.
+A basic and cool sentence reverser, based on Vanilla JavaScript.
 
 ---
 
